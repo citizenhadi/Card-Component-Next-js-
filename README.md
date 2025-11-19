@@ -27,3 +27,14 @@ Before using the Product Card component, make sure you have **lucide-react** ins
 
 ```bash
 npm install lucide-react
+
+If you're using Tailwind CSS (required), ensure it is already installed and configured:
+
+👉 Tailwind Setup Guide: https://tailwindcss.com/docs/guides/nextjs
+
+Also, if you cloned this project or moved it to a new machine, don’t forget to install all dependencies:
+
+npm install
+This command will restore the entire node_modules folder based on the package.json.
+
+The card components are now ready for use.
