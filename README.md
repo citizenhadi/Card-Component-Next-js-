@@ -4,7 +4,6 @@ This repository contains a fully functional **Product Card component** built for
 It is designed to display products with all essential features like image, price, rating, quantity, colors, sizes, and wishlist functionality.
 
 All components are fully responsive, styled with **Tailwind CSS**, and use **lucide-react** for icons.
-
 ---
 
 ## Features
@@ -23,10 +22,11 @@ All components are fully responsive, styled with **Tailwind CSS**, and use **luc
 
 ## Installation
 
-Before using the Product Card component, make sure you have **lucide-react** installed:
+Before using the header components, make sure you have **lucide-react** installed:
 
 ```bash
 npm install lucide-react
+```
 
 If you're using Tailwind CSS (required), ensure it is already installed and configured:
 
@@ -34,7 +34,12 @@ If you're using Tailwind CSS (required), ensure it is already installed and conf
 
 Also, if you cloned this project or moved it to a new machine, don’t forget to install all dependencies:
 
+```bash
 npm install
-This command will restore the entire node_modules folder based on the package.json.
+```
 
-The card components are now ready for use.
+This command will restore the entire `node_modules` folder based on the `package.json`.
+
+---
+
+### The card components are now ready for use.
