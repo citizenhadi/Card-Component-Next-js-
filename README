@@ -1,9 +1,10 @@
-# Product Card Component – Next.js
+# Card-Component-Next-js
 
 This repository contains a fully functional **Product Card component** built for **Next.js** applications.  
 It is designed to display products with all essential features like image, price, rating, quantity, colors, sizes, and wishlist functionality.
 
 All components are fully responsive, styled with **Tailwind CSS**, and use **lucide-react** for icons.
+
 ---
 
 ## Features
